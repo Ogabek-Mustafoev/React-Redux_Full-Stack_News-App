@@ -1,0 +1,50 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "name": "My first news",
+      "description": "Hi there, welcome to my project which is made in ReactJS | Redux. Have a nice day!",
+      "category": "Hot News"
+    },
+    {
+      "id": 2,
+      "name": "My second news",
+      "description": "Capping off undoubtedly the most exciting game of the tournament, Argentina shocked France to become the 2022 FIFA World Cup Champions.",
+      "category": "Sport News"
+    },
+    {
+      "id": 3,
+      "name": "My third news",
+      "description": "Just the third World Cup Final to go into a penalty shootout, Mbappé started the tense sequence by scoring against Argentinan goalkeeper Emiliano Martínez once again.",
+      "category": "All"
+    },
+    {
+      "id": 4,
+      "name": "Russia-Ukraine war",
+      "description": "Ukrainian troops have won a major victory against Russia, taking control of the western Kherson region, including Kherson city.",
+      "category": "World News"
+    }
+  ],
+  "filter": [
+    {
+      "name": "All",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "Hot News",
+      "label": "Hot News",
+      "className": "btn-outline-danger"
+    },
+    {
+      "name": "Sport News",
+      "label": "Sport News",
+      "className": "btn-outline-primary"
+    },
+    {
+      "name": "World News",
+      "label": "World News",
+      "className": "btn-outline-success"
+    }
+  ]
+}
