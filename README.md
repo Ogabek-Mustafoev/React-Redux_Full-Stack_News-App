@@ -3,7 +3,7 @@
 <p id="description">Full-Stack News-App with Redux-Toolkit and React Function Component. This project is responsive on different devices and window sizes. Json-Server is used for backend. All data comes from db.json file. New posts are also saved to db.json file.</p>
 
 <h2>🚀 Demo</h2>
-<p>In demo website, project is not as it was, because json-server does not run on server! Please download project to see real project!</p>
+<p>In demo website, project is not as it was, because json-server does not run on that host! Please download project to see its all features!</p>
 
 [🔗 Website link](https://react-redux-full-stack-news-app.vercel.app/)
 
